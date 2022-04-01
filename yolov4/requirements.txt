@@ -1,0 +1,9 @@
+scipy==1.7.1
+numpy==1.21.2
+matplotlib==3.4.3
+opencv_python==4.4.0.44
+torch==1.7.0
+torchvision==0.8.0
+tqdm==4.62.2
+Pillow==8.2.0
+h5py==2.10.0
